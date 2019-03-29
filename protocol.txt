@@ -1,0 +1,5 @@
+On the screen we see what the following temperature applied on the participants should be, i.e. temperature of their heat-pain threshold or baseline temperature of 32 degrees of Celsius(control).
+The temperature of the thermode is raised to the individual's heat-pain threshold, in any case to a maximum of 50 degrees of Celsius, or left at baseline temperature of 32 degrees of Celsius.
+The participants press "spacebar" and after 3s the thermode with the specific temperature is applied on their dorsal left forearm, while they hold a mouse with the right hand.
+The thermode is applied for 4s at which time the participants rate their urge to move their forearm away from the thermode.
+The temperature of the thermode goes down at baseline.
